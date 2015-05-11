@@ -7,10 +7,10 @@ Go ahead and give it a shot!
 
 # Instructions:
 
-1) Fork/Clone this repository to your local machine
-2) Make sure you are in the proper directory 'virool_challenges'
-3) Run a Challenge by typing in your command line 'ruby challenge1.rb' or 'ruby challenge2.rb' or 'ruby challenge3.rb'
-4) Follow the interactive instrcutions provided for each challenge!
+* Fork/Clone this repository to your local machine
+* Make sure you are in the proper directory 'virool_challenges'
+* Run a Challenge by typing in your command line 'ruby challenge1.rb' or 'ruby challenge2.rb' or 'ruby challenge3.rb'
+* Follow the interactive instrcutions provided for each challenge!
 
-#Let me know if you would make any improvements!
 #Thank you for taking the time to look at this!
+Let me know if you would make any improvements!
